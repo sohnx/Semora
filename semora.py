@@ -1,7 +1,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                    DAYMARK — STUDENT OS v2.0                         ║
-║     Automation-first academic & productivity OS for students          ║
+║     Automation-first academic & productivity OS for students         ║
 ║   PostgreSQL + FastAPI + Groq AI + Full SPA Frontend                 ║
 ╚══════════════════════════════════════════════════════════════════════╝
 
