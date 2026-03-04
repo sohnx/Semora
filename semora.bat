@@ -22,6 +22,6 @@ echo =====================================
 echo.
 
 REM Start FastAPI
-uvicorn semora:app --host 0.0.0.0 --port 8000 --reload
+uvicorn daymark_app:app --host 0.0.0.0 --port 8000 --reload
 
 pause
