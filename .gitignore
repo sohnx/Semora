@@ -1,0 +1,5 @@
+venv
+.env
+*.db
+run_dynamic.bat
+__pycache__/
